@@ -55,3 +55,8 @@
 .create-chart:hover{
   cursor:pointer;
 }
+
+.card-size{
+  width: 30%;
+  padding: inherit;
+}
