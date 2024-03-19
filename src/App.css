@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+.LegendList {
+  list-style: none; /* Remove default bullets */
+  columns: 2;
+}
+
+.BulletLabel {
+  display: flex;
+  align-items: center;
+}
+
+.BulletLabelText {
+  margin-left: 5px;
+  font-size: 9px;
+}
+
+.create-chart:hover{
+  cursor:pointer;
+}
